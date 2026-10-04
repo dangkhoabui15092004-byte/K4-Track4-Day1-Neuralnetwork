@@ -1,4 +1,4 @@
-# Báo cáo Lab Day 1 — Nguyễn Văn A — 20260001
+# Báo cáo Lab Day 1 — Bùi Đăng Khoa — 2A202602617
 
 ## 1. Thiết lập
 
